@@ -9,11 +9,14 @@ comprehensive architecture and integrating GIS technologies with existing system
 ---
 
 ### 🛠️ Skills & Technologies
-- **Languages:** Python, Java, JavaScript, C++  
-- **Frameworks & Tools:** React, Node.js, Django, Spring Boot  
-- **Database Management:** MySQL, PostgreSQL, MongoDB  
-- **Version Control:** Git, GitHub  
-- **Others:** REST APIs, Docker, Kubernetes  
+- **GIS**: ArcGIS Enterprise/Online, Experience Builder/Web App Builder, Geo Event Server, ArcGIS Survey123, GeoServer, ArcGIS JS Api, ArcPY, ArcGIS QT SDK, ArcGIS Runtime SDK for .Net
+- **Front-End:** React, ASP.NET, JavaScript, TypeScript, jQuery, QT/QML, DOJO
+- **Back-end:** .Net Web API, WCF, NodeJS, Python
+- **Databases:** Oracle, POSTGIS, Snowflake
+- **Tools:** ArcMap/Pro, Git, Code Cloud, Microsoft Visual Studio, Visual studio Code
+- **Cloud:** Azure App Service, Azure Databricks, AKS
+- **Domain:** Telecom, Oil & GAS, Electric Utility
+  
 
 ---
 
