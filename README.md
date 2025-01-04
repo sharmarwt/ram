@@ -57,6 +57,11 @@ comprehensive architecture and integrating GIS technologies with existing system
   - Tool developed for production people to improve quality and reduce manual effort.
   - Tool developed to display feeder live load.
 ---
+### 📂 EDUCATION
+**College of Technology and Engineering, Udaipur**
+Bachelor of Engineering in Information Technology, 2012
+
+---
 
 
 ### 📂 Featured Projects
