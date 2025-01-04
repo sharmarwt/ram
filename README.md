@@ -16,7 +16,13 @@ comprehensive architecture and integrating GIS technologies with existing system
 - **Tools:** ArcMap/Pro, Git, Code Cloud, Microsoft Visual Studio, Visual studio Code
 - **Cloud:** Azure App Service, Azure Databricks, AKS
 - **Domain:** Telecom, Oil & GAS, Electric Utility
-  
+
+  ---
+
+### 🛠️ CERTIFICATIONS
+- Microsoft Certified: Azure Fundamentals
+- Udemy: Qt6 QML
+- IBM HADOOP Certification
 
 ---
 
