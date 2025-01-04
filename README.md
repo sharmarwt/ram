@@ -1,14 +1,10 @@
 # Hi there, I'm Ram Sharma! 👋
 
 ### 🚀 About Me
-Full stack GIS Tech Lead with a proven track record of designing and implementing cutting-edge GIS
-solutions for organizations. Expertise in analyzing organizational needs and requirements. Developing
-comprehensive architecture and integrating GIS technologies with existing systems. Oversees the implementation
-and integration of GIS Software, Database and hardware ensuring scalability, security and optimal performance.
- With 11 years of hands-on experience, I am proficient in GIS Software Such as ArcGIS Enterprise, ArcGIS
-Online, ArcMap/Pro, GeoServer as well as programming languages ASP.Net, .Net core, JavaScript/TypeScript,
-React, Python, QML etc. for GIS applications. I have experience with Geospatial Databases, web mapping
-frameworks, custom GIS applications and AZURE Cloud Solutions.
+ Full stack GIS Tech Lead with a proven track record of designing and implementing cutting-edge GIS solutions for organizations. Expertise in analyzing organizational needs and requirements. Developing
+comprehensive architecture and integrating GIS technologies with existing systems. Oversees the implementation and integration of GIS Software, Database and hardware ensuring scalability, security and optimal performance.
+
+ With 11 years of hands-on experience, I am proficient in GIS Software Such as ArcGIS Enterprise, ArcGIS Online, ArcMap/Pro, GeoServer as well as programming languages ASP.Net, .Net core, JavaScript/TypeScript, React, Python, QML etc. for GIS applications. I have experience with Geospatial Databases, web mapping frameworks, custom GIS applications and AZURE Cloud Solutions.
 
 ---
 
